@@ -1,0 +1,15 @@
+.LoginForm {
+	& > div {
+		margin: 10px;
+	}
+	button {
+		display: block;
+		margin: 20px auto;
+	}
+}
+.LoginContainer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}

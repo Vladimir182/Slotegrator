@@ -1,0 +1,16 @@
+.wrapp {
+	display: inline-block;
+}
+
+.ok {
+	color: #4caf50;
+}
+.default {
+	color: #bdbdbd;
+}
+.error {
+	color: #f44336;
+}
+.danger {
+	color: #ffd54f;
+}
